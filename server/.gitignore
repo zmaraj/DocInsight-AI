@@ -1,0 +1,8 @@
+# Python
+.venv/
+__pycache__/
+uploads/
+outputs/
+.env
+*.pyc
+*.pyo
